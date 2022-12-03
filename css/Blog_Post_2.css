@@ -45,6 +45,7 @@
     margin:0 10px;
     padding:10px 0;
     align-items: center;
+    justify-content: space-between;
     color:var(--color-3);
 }
   
@@ -58,14 +59,11 @@
   
 .header-back, .header-menu{
     margin-left: 10px;
-    font-weight: 400;
 }
   
 .header-title_right{
     font-size:10px;
     font-weight:800;
-    margin-left: 35px;
-    padding-right: 40px;
 }    
   
 .header-menu{
